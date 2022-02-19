@@ -1,0 +1,21 @@
+body{
+    background-color: black;
+}
+h1,h2,h3{
+    background-color: blue;
+    color: white;
+    text-align: center;
+}
+input,#room_name{
+    background-color: blue;
+    color: white;
+}
+#button_logout{
+    float: right;
+}
+button,#button{
+    background-color: blue;
+    color: white;
+    height: 40px;
+    width: 100px;
+}
